@@ -2,11 +2,11 @@
 
 ##__Colaboradores__
 
-Pablo Martín-Moreno Ruiz
-Francisco Toranzo Santiago
-Gabriel Guirado Muñoz
-Jose Antonio Peña Valdearenas
-Cristian Manuel Lorenzo Cano
+* Pablo Martín-Moreno Ruiz
+* Francisco Toranzo Santiago
+* Gabriel Guirado Muñoz
+* Jose Antonio Peña Valdearenas
+* Cristian Manuel Lorenzo Cano
 
 ##__Introducción__
 
